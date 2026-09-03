@@ -26,7 +26,7 @@ Python (FastAPI, AWS Chalice, Reflex), PHP (Symfony, Doctrine), SQLModel, SQLAlc
 AWS (Lambda, SNS/SQS, S3, API Gateway, RDS, DynamoDB, ECS), Terraform, Docker, Linux
 
 **CI/CD**
-GitLab CI/CD
+GitLab CI/CD, GitHub Actions
 
 **Databases**
 MySQL, PostgreSQL, SQLite, Aurora, DynamoDB
@@ -36,6 +36,9 @@ AWS Cognito, OAuth2, JWT
 
 **AI/ML**
 OpenAI API integration, prompt engineering, model fine-tuning, workflow automation
+
+**AI-Assisted Development**
+Well versed in AI-assisted coding tools — Claude Code, GitHub Copilot, DeepSeek harness, and others
 
 ## Currently
 
