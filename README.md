@@ -1,6 +1,6 @@
 ## Hi, I'm Albert Sola 👋
 
-Tech lead and backend engineer with 20+ years building APIs, data pipelines, and cloud infrastructure — mostly for property management, legal, and automotive businesses. Backend-first, with enough UI experience to ship a working front end when a project needs one. I've worked as developer, CTO, and engineer, and I'm comfortable owning a problem end to end: architecture, build, deploy, and run.
+I help property, legal, and automotive businesses cut manual work, tighten compliance, and scale their systems without the growing pains — by building the APIs, data pipelines, and cloud infrastructure that hold it together. 20+ years in the trenches as developer, CTO, and engineer. Backend-first, with enough UI experience to ship a working front end when a project needs one.
 
 **Open to:** freelance/contract engagements, working on a project basis.
 
@@ -11,11 +11,11 @@ Tech lead and backend engineer with 20+ years building APIs, data pipelines, and
 
 ## What I do
 
-- Design and build APIs and backend systems (Python/FastAPI, PHP/Symfony) for high-availability, data-heavy applications
-- Architect and run cloud infrastructure on AWS (serverless, RDS/Aurora, ECS) with Terraform and Docker
-- Build ETL pipelines and data warehouses for compliance and regulatory reporting (KYC)
-- Integrate third-party systems — payments, CRMs, email, mapping — into existing business workflows
-- Apply generative AI to automate administrative and operational tasks
+- Turn manual, error-prone processes into automated systems (Python/FastAPI, PHP/Symfony)
+- Keep infrastructure reliable and cloud costs under control on AWS (serverless, RDS/Aurora, ECS) with Terraform and Docker
+- Make data trustworthy and audit-ready with ETL pipelines and data warehouses for compliance/KYC reporting
+- Connect the tools a business already uses — payments, CRMs, email, mapping — so people stop copy-pasting between systems
+- Use generative AI to take administrative busywork off a team's plate
 
 ## Tech Stack
 
@@ -44,35 +44,38 @@ Delivering tech consultancy focused on streamlining business processes, optimizi
 ## Selected Work
 
 **Data & Compliance**
-- Built a data warehouse and compliance/KYC reporting system for the Law Society of Scotland
-- Built an ETL pipeline to process and validate Infobel's national business dataset for Spain
-- Automated property data extraction from Sedecatastro.gob.es and Idealista for a property management platform
-- Implemented event-driven, real-time notifications for conveyancing workflows
+- Kept the Law Society of Scotland audit-ready with a purpose-built KYC compliance data warehouse and reporting system
+- Made Infobel's national Spanish business dataset usable for downstream cleansing and validation with a dedicated ETL pipeline
+- Cut manual data entry for a property management platform by automating extraction from Sedecatastro.gob.es and Idealista
+- Sped up decision-making in conveyancing with real-time, event-driven notifications
 
 **Property & CRM Platforms**
-- Built a SaaS property management platform and a maintenance/compliance-focused property CRM
-- Built an ERP for property management that automated core operational workflows
-- Built CRMs for elderly care facilities and short-term letting businesses
-- Built a video platform for automotive warranty claims and parts ordering
-- Built a translation platform suite covering client onboarding, translator collaboration, and localization
-- Built an e-learning platform delivering financial training to SMEs
+- Gave a property management business a scalable SaaS platform to run operations entirely online
+- Helped a maintenance-focused property business track compliance and leads in one CRM instead of spreadsheets
+- Cut manual admin for a property management operation with a purpose-built ERP
+- Improved care coordination and resident satisfaction with a CRM built for elderly care facilities
+- Streamlined short-term letting operations with a dedicated CRM
+- Sped up automotive warranty claims and parts ordering with a purpose-built video platform
+- Cut onboarding friction for a translation business with a platform spanning client onboarding, translator collaboration, and localization
+- Helped SMEs build financial literacy with a purpose-built e-learning platform
 
 **Cloud & Infrastructure**
-- Led migration of a high-availability event processing system with minimal downtime
-- Migrated LAMP-stack applications and media asset infrastructure from bare metal to AWS
-- Migrated complex database systems to AWS RDS, improving performance and reliability
-- Ran load testing on a high-traffic application, cutting cloud costs and improving response times under peak load
-- Built video and image processing pipelines on AWS Lambda, cutting processing time and page load times
+- Kept a high-availability event processing system running through migration, with minimal downtime
+- Cut infrastructure management overhead by moving LAMP-stack and media-asset systems from bare metal to AWS
+- Improved performance and reliability by migrating complex database systems to AWS RDS
+- Cut cloud costs and improved response times under peak load through targeted load testing
+- Cut processing and page-load times with video/image pipelines built on AWS Lambda
 
 **Integrations**
-- Built custom APIs for property, legal, and automotive sector software
-- Integrated Stripe billing, HubSpot, Gmail/Google Groups, and Google Maps into CRM systems
-- Built a malware-scanning pipeline for signed AWS S3 uploads
-- Built SendGrid webhook processing for real-time email event tracking
-- Built Zapier integrations (no-code and Python) to automate manual workflows
+- Enabled property, legal, and automotive businesses to run on software fit to their own workflows with custom APIs
+- Improved payment tracking and user experience by integrating Stripe billing across multiple platforms
+- Got HubSpot, Gmail/Google Groups, and Google Maps talking to CRM systems so teams stop switching tools
+- Closed a security gap with a malware-scanning pipeline for signed AWS S3 uploads
+- Improved visibility into email delivery with SendGrid webhook processing for real-time event tracking
+- Cut manual busywork with Zapier integrations, both no-code and Python-based
 
 **Web Development**
-- Designed and built websites for property management, real estate, and local businesses
+- Grew online visibility and customer acquisition for property, real estate, and local businesses with custom-built websites
 
 ---
 
