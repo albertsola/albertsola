@@ -1,8 +1,8 @@
 ## Hi, I'm Albert Sola 👋
 
-Tech lead and full-stack engineer with 20+ years building APIs, data pipelines, and cloud infrastructure — mostly for property management, legal, and automotive businesses. I've worked as developer, CTO, and engineer, and I'm comfortable owning a problem end to end: architecture, build, deploy, and run.
+Tech lead and backend engineer with 20+ years building APIs, data pipelines, and cloud infrastructure — mostly for property management, legal, and automotive businesses. Backend-first, with enough UI experience to ship a working front end when a project needs one. I've worked as developer, CTO, and engineer, and I'm comfortable owning a problem end to end: architecture, build, deploy, and run.
 
-**Open to:** freelance/contract engagements and full-time technical leadership roles (CTO, staff/lead engineer).
+**Open to:** freelance/contract engagements, working on a project basis.
 
 - 📄 [LinkedIn](https://www.linkedin.com/in/albertsola/)
 - 💻 [GitHub](https://github.com/albertsola)
@@ -76,4 +76,4 @@ Delivering tech consultancy focused on streamlining business processes, optimizi
 
 ---
 
-Looking to streamline a process, ship an integration, or need a hand across the full stack — [let's talk](https://www.linkedin.com/in/albertsola/).
+Looking to streamline a process, ship an integration, or need backend expertise on a project — [let's talk](https://www.linkedin.com/in/albertsola/).
