@@ -42,7 +42,7 @@ Well versed in AI-assisted coding tools — Claude Code, GitHub Copilot, DeepSee
 
 ## Currently
 
-Delivering tech consultancy focused on streamlining business processes, optimizing integrations, and using AI to automate administrative work. Also building AI-powered property management software for property managers and real estate professionals.
+Working on the Extensions team for SoftwareOne's Marketplace, building the integrations and tooling that let partners extend the platform.
 
 ## Selected Work
 
