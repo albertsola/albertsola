@@ -35,7 +35,7 @@ MySQL, PostgreSQL, SQLite, Aurora, DynamoDB
 AWS Cognito, OAuth2, JWT
 
 **AI/ML**
-OpenAI API integration, prompt engineering, model fine-tuning, workflow automation
+OpenAI API integration, prompt engineering, workflow automation
 
 **AI-Assisted Development**
 Well versed in AI-assisted coding tools — Claude Code, GitHub Copilot, DeepSeek harness, and others
